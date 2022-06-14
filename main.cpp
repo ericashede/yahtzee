@@ -2,6 +2,5 @@
 
 int main()
 {
-    setupGame();
-    playRound();
-}
+    playGame();
+} 

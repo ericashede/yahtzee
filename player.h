@@ -7,7 +7,7 @@ class Player
 {
     private:
     public:
-        int score;
+        int player_score;
         std::string name; 
 
     void namePlayer()
